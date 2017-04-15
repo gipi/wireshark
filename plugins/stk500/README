@@ -1,0 +1,3 @@
+Dissector to analyze the STK500 protocol.
+
+For more information see <AVR068: STK500 Communication Protocol http://www.atmel.com/images/doc2591.pdf>.
